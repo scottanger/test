@@ -6,4 +6,6 @@ I would like to figure out how to use this thing.
 
 Keep testing
 
+The attempt to merge the files didn't work as well as I hoped.  I really need to figure out how to use this service.
+
 ====
